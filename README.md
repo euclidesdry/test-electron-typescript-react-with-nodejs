@@ -1,4 +1,4 @@
-## Electron + TypeScript + React
+## Electron + TypeScript + React + NodeJS
 
 Boilerplate for a project using Electron, React and Typescript.
 
